@@ -11,3 +11,5 @@ This is my test repository
 * Item 2
 
 :+1:
+
+Made changes for CLI
